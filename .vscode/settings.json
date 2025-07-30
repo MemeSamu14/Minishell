@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"cctype": "cpp",
+		"random": "c",
+		"minishell.h": "c",
+		"sstream": "c",
+		"ctype.h": "c",
+		"algorithm": "c",
+		"stdint.h": "c",
+		"unistd.h": "c",
+		"stdlib.h": "c",
+		"signal.h": "c",
+		"global.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "disabled"
+}
